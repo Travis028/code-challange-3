@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Welcome to My Blog",
+      "content": "This is my first blog post! I'm excited to share my thoughts and ideas with you. Stay tuned for more updates!"
+    },
+    {
+      "id": "2",
+      "title": "Getting Started with Blogging",
+      "content": "Blogging is a great way to express yourself and share your knowledge with the world. In this post, I'll share some tips on how to get started with your own blog."
+    },
+    {
+      "id": "adcf",
+      "title": "the  problem starts with you",
+      "content": "noma si noma\n"
+    },
+    {
+      "id": "5141",
+      "title": "Gen-z unit again",
+      "content": "noma sinoma"
+    },
+    {
+      "id": "2581",
+      "title": "mount kilimanjaro"
+    }
+  ]
+}
